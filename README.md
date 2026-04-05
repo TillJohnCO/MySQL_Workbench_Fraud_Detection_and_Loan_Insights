@@ -3,7 +3,7 @@
 ## Project Overview
 Analysis of customer demographics, transactional behavior, loan applications, and fraud indicators in order to assist senior leadership in uncovering actionable insights to drive strategic decision-making. 
 
-## Dashboard Preview
+## Workbench Preview
 ![Screenshot](Screenshots/1_DB_Creation.jpg)
 ![Screenshot](Screenshots/2_Addl_Cleanup.jpg)
 ![Screenshot](Screenshots/3_Top_3_Months_Xaction_Volume.jpg)
