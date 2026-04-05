@@ -11,7 +11,7 @@ Analysis of customer demographics, transactional behavior, loan applications, an
 ![Screenshot](Screenshots/5_Fraud_Xaction_Count.jpg)
 ![Screenshot](Screenshots/6_Online_Fraud_Count.jpg)
 ![Screenshot](Screenshots/7_Cust_with_7+_Fraud_Xactions.jpg)
-
+![Screenshot](Screenshots/8_MySQL_Relationship.jpg)
 ## Key Insights
 - **Insight 1: There have been 2,363 fraudulent transactions; of which 735 were perpetrated online.
 - **Insight 2: 10 customers have perpetrated 8 or more fraudulent transactions.
